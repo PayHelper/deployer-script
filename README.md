@@ -1,6 +1,6 @@
 # Payments Hub Deployer Script
 
-A Deployer script to deploy [Payments Hub]()
+A Deployer's script to deploy [Payments Hub](https://github.com/PayHelper/payments-hub).
 
 ## Usage
 
