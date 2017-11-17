@@ -1,0 +1,16 @@
+payments-hub:
+  hostname: example.com #change this
+  port: 2210 #change this
+  user: demo #change this
+  stage: dev #change this
+  configFile: ~/.ssh/config #change this
+  identityFile: ~/.ssh/id_rsa #change this
+  multiplexing: false #change this
+  deploy_path: /var/www/payments-hub #change this
+  env: dev #change this
+  app.secret: c767ad3dacd17fc49653aaa866484d9deg8 #change this
+  app.database_name: payments-hub #change this
+  app.database_user: postgres #change this
+  app.database_port: ~ #change this
+  app.database_host: localhost #change this 
+  app.database_password: password #change this
